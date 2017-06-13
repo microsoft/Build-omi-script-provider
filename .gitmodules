@@ -1,0 +1,6 @@
+[submodule "scriptprovider"]
+	path = scriptprovider
+	url = https://github.com/Microsoft/omi-script-provider
+[submodule "omi"]
+	path = omi
+	url = https://github.com/Microsoft/omi
