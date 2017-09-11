@@ -4,3 +4,6 @@
 [submodule "omi"]
 	path = omi
 	url = https://github.com/Microsoft/omi
+[submodule "pal"]
+	path = pal
+	url = https://github.com/Microsoft/pal.git
